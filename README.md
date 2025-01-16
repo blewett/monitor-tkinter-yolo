@@ -1,4 +1,4 @@
-# Tkinter YOLO Monitor
+# Tkinter YOLO Video Monitor
 
 ![alt text](https://github.com/blewett/monitor-tkinter-yolo/blob/main/jeopardy.png?raw=true)
 
