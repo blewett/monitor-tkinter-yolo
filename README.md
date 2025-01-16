@@ -1,5 +1,5 @@
 #Tkinter YOLO Monitor
-![alt text](https://github.com/blewett/monitor-tkinter-yolo/blob/main/images/jeopardy.png?raw=true)
+![alt text](https://github.com/blewett/monitor-tkinter-yolo/blob/main/jeopardy.png?raw=true)
 
 This system is built on the Open Computer Vision module (cv2), the YOLO (you only look once) image detection system, and the  tkinter GUI package. Install these, after installing python3, with the following:
 
