@@ -10,6 +10,7 @@ This system is built on the Open Computer Vision module (cv2), the YOLO (you onl
 4. Download the YOLO data from many of the online sources:
 
 https://medium.com/@mikolaj.buchwald/yolo-and-coco-object-recognition-basics-in-python-65d06f42a6f8
+
 https://data-flair.s3.ap-south-1.amazonaws.com/machine-learning-projects/pedestrian-detection-project-code.zip
 
 The following is a sample invocation of the system:
